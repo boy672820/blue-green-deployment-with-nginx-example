@@ -21,6 +21,14 @@ Docker 컨테이너 환경에서 Nginx를 이용한 Blue-Green 배포에 대한 
 
 <br />
 
+## 사전 지식
+
+- [리버스 프록시란? | Cloudflare](https://www.cloudflare.com/ko-kr/learning/cdn/glossary/reverse-proxy/)
+- [Nginx Reverse Proxy](https://docs.nginx.com/nginx/admin-guide/web-server/reverse-proxy/)
+- [로드 밸런싱이란 무엇인가요? | AWS](https://aws.amazon.com/ko/what-is/load-balancing/)
+
+<br />
+
 ## 시나리오 예제
 
 Blue-Green 배포가 어떻게 이루어지는지 예제를 통해 알아보도록 하죠.
